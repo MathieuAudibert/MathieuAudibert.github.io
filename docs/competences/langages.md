@@ -6,7 +6,7 @@ nav_order: 1
 has_children: false
 ---
 
-## Langages ✏️
+# Langages ✏️
 <table>
     <tr>
         <th>Python</th>
