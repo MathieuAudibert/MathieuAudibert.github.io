@@ -1,3 +1,11 @@
+---
+title: Parcours Professionnel
+layout: default
+has_children: true
+nav_order: 2
+permalink: /
+---
+
 # Parcours professionnel
 **Je vous recommande de vous orienter vers mon [Linkedin](https://www.linkedin.com/in/mathieu-audibert-2b4763252/) car il contient plus de précisions.**
 
