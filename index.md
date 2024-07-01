@@ -6,14 +6,12 @@ permalink: /
 ---
 
 # Mon porfolio
-{: .fs-9 }
 
 Cette GitHub Page est mon portfolio contenant mes projets. 
 Vous pourrez en découvrir plus sur mes **projets**, mes **compétences** et mon **parcours professionnel** !
-{: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View it on GitHub][https://github.com/MathieuAudibert/MathieuAudibert.github.io/]{: .btn .fs-5 .mb-4 .mb-md-0 }
+[View it on GitHub](https://github.com/MathieuAudibert/MathieuAudibert.github.io/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 {: .warning }
