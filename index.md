@@ -14,9 +14,7 @@ Vous pourrez en découvrir plus sur mes **projets**, mes **compétences** et mon
 [Voir sur GitHub](https://github.com/MathieuAudibert/MathieuAudibert.github.io/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
-
-{: .warning }
-> Le portfolio n'est peut etre **pas** a jour!.
+> Le portfolio n'est peut etre **pas** a jour!
 ----
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
