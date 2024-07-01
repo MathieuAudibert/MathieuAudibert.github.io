@@ -2,6 +2,7 @@
 layout: default
 title: Lycée Alexandre Dumas
 parent: Parcours Professionnel
+has_children: false
 nav_order: 1
 ---
 # Baccalauréat Général @ [Dumas](https://lyc-dumas-st-cloud.ac-versailles.fr/)
