@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Langages
-parent: competences
+parent: Compétences
 nav_order: 1
 has_children: false
 ---
