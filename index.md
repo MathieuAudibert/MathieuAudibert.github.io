@@ -10,7 +10,7 @@ permalink: /
 Cette GitHub Page est mon portfolio contenant mes projets. 
 Vous pourrez en découvrir plus sur mes **projets**, mes **compétences** et mon **parcours professionnel** !
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Linkedin](https://www.linkedin.com/in/mathieu-audibert-2b4763252/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View it on GitHub](https://github.com/MathieuAudibert/MathieuAudibert.github.io/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
