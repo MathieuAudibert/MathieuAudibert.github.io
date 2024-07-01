@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Autre
-parent: competences
+parent: Compétences
 nav_order: 4
 has_children: false
 ---
