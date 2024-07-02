@@ -12,3 +12,7 @@ nav_order: 3
 - Traitements quotidiens sur la TVA
 - Controle de qualité données avec UNIX
 - Ordonnancement Control-M
+## Description
+Durant mon stage chez LCL, j'ai eu l'opportunité de découvrir l'entrepôt de données et de me familiariser avec Terradata. 
+
+J'ai effectué des traitements quotidiens sur la TVA et assuré le contrôle de qualité des données en utilisant UNIX. De plus, j'ai travaillé sur l'ordonnancement avec Control-M, ce qui m'a permis de développer une compréhension approfondie des processus de gestion de données et de leur qualité.
