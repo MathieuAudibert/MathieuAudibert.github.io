@@ -21,4 +21,5 @@ has_children: false
         <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1024px-Flag_of_Brazil.svg.png" title="PT" alt="PT" width="100" height="70"/></td>
     </tr>
 </table>
-[Retour](competences.md)
+
+[Retour](./competences.md)
