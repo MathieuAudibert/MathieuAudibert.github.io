@@ -25,4 +25,5 @@ has_children: false
         <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png" title="SQLite" alt="SQLite" width="70" height="55"/></td>
     </tr>
 </table>
-[Retour](competences.md)
+
+[Retour](./competences.md)
