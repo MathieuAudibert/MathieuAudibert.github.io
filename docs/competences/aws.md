@@ -27,4 +27,5 @@ has_children: false
         <td><img src="https://i.ibb.co/FHPpj5g/image.png" title="STS" alt="STS" width="55" height="55"/></td>
     </tr>
 </table>
-[Retour](competences.md)
+
+[Retour](./competences.md)
