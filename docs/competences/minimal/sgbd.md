@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SGBD
-parent: Compétences
+parent: Competences
 nav_order: 2
 has_children: false
 ---
