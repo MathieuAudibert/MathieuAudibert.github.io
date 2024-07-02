@@ -3,7 +3,7 @@ title: Parcours Professionnel
 layout: default
 has_children: true
 nav_order: 2
-permalink: /
+permalink: /docs/parcours-professionnel
 ---
 
 # Parcours professionnel
