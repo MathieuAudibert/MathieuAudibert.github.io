@@ -7,7 +7,7 @@ permalink: /docs/parcours-professionnel
 ---
 
 # Parcours professionnel
-**Je vous recommande de vous orienter vers mon [Linkedin](https://www.linkedin.com/in/mathieu-audibert-2b4763252/) car il contient plus de précisions.**
+> **Je vous recommande de vous orienter vers mon [Linkedin](https://www.linkedin.com/in/mathieu-audibert-2b4763252/) car il contient plus de précisions.**
 
 Je m'appelle Mathieu Audibert, j'ai 19 ans et j'aspire a être ```DevOps dans le cloud ou Ingénieur Big Data```. 
 
