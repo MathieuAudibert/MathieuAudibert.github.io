@@ -23,3 +23,4 @@ has_children: false
         <td><img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" title="JAVA" alt="JAVA" width="55" height="55"/></td>
     </tr>
 </table>
+[Retour](competences.md)
