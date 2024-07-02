@@ -30,6 +30,4 @@ has_children: false
     </tr>
 </table>
 
-[Retour](./competences.md)
-
 
