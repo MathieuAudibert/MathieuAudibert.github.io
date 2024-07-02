@@ -14,5 +14,4 @@ nav_order: 2
 - TOEIC Blanc
 ## Description 
 Actuellement, je poursuis un Bachelor en Développement et Data à Efrei, où j'ai l'occasion de perfectionner mes compétences en programmation et en gestion de données. Mes cours incluent des langages tels que JavaScript (React, Node, Three.js), PHP, SQL (MySQL, PostgreSQL, phpMyAdmin) et Java (Kotlin). 
-
 En parallèle, je prépare le TOEIC Blanc, ce qui renforce mes compétences en anglais, essentielles pour évoluer dans un environnement international. Cette formation me permet de développer une expertise approfondie et diversifiée dans le domaine du développement et de la data.
