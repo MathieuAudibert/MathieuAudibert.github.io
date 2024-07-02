@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AWS
-parent: Compétences
+parent: Competences
 nav_order: 3
 has_children: false
 ---
