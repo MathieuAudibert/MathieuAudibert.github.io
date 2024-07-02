@@ -16,8 +16,10 @@ Vous pourrez en découvrir plus sur mes **projets**, mes **compétences** et mon
 ---
 > Le portfolio n'est peut etre **pas** a jour!
 
+## Introduction
 Bienvenue sur mon portfolio ! Je suis **Mathieu Audibert**, un junior dev passionné avec une solide expérience en développement web et en gestion de bases de données. Au fil des années, j'ai affiné mes compétences dans divers langages de programmation, outils de développement et plateformes cloud. 
 
+## Courte description
 Mon expertise couvre des technologies telles que Python, JavaScript, et AWS, ainsi que des systèmes de gestion de bases de données comme MySQL et PostgreSQL. Polyvalent et toujours à la recherche de nouvelles connaissances, je suis capable de m'adapter rapidement aux nouvelles technologies et d'apporter des solutions innovantes aux défis techniques. 
 
 **Explorez cette section pour découvrir en détail mes compétences et voir comment je peux contribuer à vos projets**.
