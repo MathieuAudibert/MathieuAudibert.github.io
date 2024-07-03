@@ -13,5 +13,7 @@ nav_order: 5
 - Documentation du script
 ## Description
 Mon stage à la Société Générale m'a permis de suivre des formations sur les principes de base de la lutte contre le blanchiment et la fraude, ainsi que sur les pratiques DevOps avec GitHub Actions et Jira. 
+
+## Missions
 J'ai développé un script Python/AWS pour interroger et récupérer des informations sur les TGW et ses routes, tout en documentant ce script pour assurer une utilisation et une maintenance efficaces.
 
