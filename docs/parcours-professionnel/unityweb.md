@@ -12,5 +12,7 @@ UnityWeb est une entreprise indépendante crée par 3 étudiants-développeurs q
 UnityWeb a été crée en 2023 par AGOSTINO Roméo, GENET Ismaël et AUDIBERT Mathieu.
 ## Description
 UnityWeb est une entreprise indépendante créée par trois étudiants-développeurs avec pour mission de concevoir des solutions web innovantes pour les entreprises. 
+
+## Fondateurs
 Fondée en 2023 par Roméo Agostino, Ismaël Genet, et moi-même, UnityWeb se concentre sur la création d'infrastructures backend robustes et efficaces. En tant que Lead infrastructures backend, je supervise le développement et l'intégration des technologies nécessaires pour offrir des solutions performantes et fiables à nos clients.
 
