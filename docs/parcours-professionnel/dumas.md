@@ -13,4 +13,6 @@ nav_order: 1
 - Obtenu avec mention
 ## Description
 Pendant mes années au Lycée Alexandre Dumas, j'ai suivi un Baccalauréat Général, mettant l'accent sur des matières telles que le Numérique et Sciences de l'Informatique (NSI), la Physique-Chimie et les Mathématiques Complémentaires.
+
+## Diplôme
 J'ai obtenu mon diplôme avec mention, témoignage de mon engagement.
