@@ -14,4 +14,6 @@ nav_order: 3
 - Ordonnancement Control-M
 ## Description
 Durant mon stage chez LCL, j'ai eu l'opportunité de découvrir l'entrepôt de données et de me familiariser avec Terradata. 
+
+## Missions
 J'ai effectué des traitements quotidiens sur la TVA et assuré le contrôle de qualité des données en utilisant UNIX. De plus, j'ai travaillé sur l'ordonnancement avec Control-M, ce qui m'a permis de développer une compréhension approfondie des processus de gestion de données et de leur qualité.
