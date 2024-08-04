@@ -8,9 +8,6 @@ has_children: false
 # Contact
 Vous pouvez me contacter sur cette adresse mail, ou bien en message linkedin !
 
-![Gmail](https://img.shields.io/badge/mathieu.audibert27@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&color=C11E1E)
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathieu-audibert-2b4763252/)
-
+[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png)](mailto:mathieu.audibert27@gmail.com)
 
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/mathieu-audibert-2b4763252/)
