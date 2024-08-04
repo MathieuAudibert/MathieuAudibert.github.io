@@ -16,11 +16,19 @@ Vous pourrez en découvrir plus sur mes **projets**, mes **compétences** et mon
 ---
 > Le portfolio n'est peut etre **pas** a jour!
 
-## Introduction
-Bienvenue sur mon portfolio ! Je suis **Mathieu Audibert**, un junior dev passionné avec une solide expérience en développement web et en gestion de bases de données. Au fil des années, j'ai affiné mes compétences dans divers langages de programmation, outils de développement et plateformes cloud. 
+# À propos de moi 🙋‍♂️
+👋 Bonjour ! Je suis étudiant en 3ème année à Paris, spécialisé en développement orienté données. Ma passion pour l'apprentissage me pousse à élargir constamment mon ensemble de compétences et à me tenir à jour avec les dernières technologies.
 
-## Courte description
-Mon expertise couvre des technologies telles que Python, JavaScript, et AWS, ainsi que des systèmes de gestion de bases de données comme MySQL et PostgreSQL. Polyvalent et toujours à la recherche de nouvelles connaissances, je suis capable de m'adapter rapidement aux nouvelles technologies et d'apporter des solutions innovantes aux défis techniques. 
+## Compétences et centres d'intérêt 💭
+- **Cloud Computing** : J'ai une solide expérience avec AWS et j'aime utiliser ses services pour créer des solutions évolutives et efficaces.
+
+- **Bases de données** : Compétent en SQL et expérimenté avec les bases de données NoSQL, je suis habile à concevoir et gérer des structures de données qui supportent des applications robustes.
+
+- **Développement backend** : J'ai une expérience pratique avec les technologies backend, y compris les scripts shell avec Bash et Control-M, pour automatiser et rationaliser les flux de travail.
+
+- **Apprentissage continu** : J'adore acquérir de nouvelles connaissances et compétences, cherchant toujours des opportunités pour apprendre et grandir dans le domaine de la technologie.
+
+- **Sports** : Le football et le sport en général sont des hobbies, en particulier le PSG <img src="./assets/psg.png" alt="psg" width="1,5%"/>
 
 **Explorez cette section pour découvrir en détail mes compétences et voir comment je peux contribuer à vos projets**.
 
