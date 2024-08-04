@@ -29,7 +29,7 @@ Vous pourrez en découvrir plus sur mes **projets**, mes **compétences** et mon
 - **Sports** : Le football et le sport en général sont des hobbies, en particulier le PSG
 
 ## Objectifs actuels 🎯
-> Je suis actuellement à la recherche d'une **alternance** en *solutions cloud ou développement backend*. Je souhaite contribuer des projets passionnants ou je pourrai apprendre des professionnels du secteur et développer mes connaissances.
+Je suis actuellement à la recherche d'une **alternance** en *solutions cloud ou développement backend*. Je souhaite contribuer des projets passionnants ou je pourrai apprendre des professionnels du secteur et développer mes connaissances.
 
 # En cours 🧱
 ### Projets en solo 🧨
@@ -38,7 +38,6 @@ Vous pourrez en découvrir plus sur mes **projets**, mes **compétences** et mon
 ### Projets de groupe 🔌
 - Actuellement sur https://github.com/UnityWeb-Dev et https://github.com/IsmaaDevs/ProSend
 
->[!NOTE]\
 > À l'exception de https://github.com/MathieuAudibert/TGW-Reporting, https://github.com/MathieuAudibert/bank-fraud-detection et ProSend, beaucoup de mes dépôts sont <br />
 >![Obsolètes](https://img.shields.io/badge/State-Outdated-red?style=plastic) ![Brouillons](https://img.shields.io/badge/Stage-Draft-orange?style=plastic) 
 
