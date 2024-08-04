@@ -17,18 +17,30 @@ Vous pourrez en découvrir plus sur mes **projets**, mes **compétences** et mon
 > Le portfolio n'est peut etre **pas** a jour!
 
 # À propos de moi 🙋‍♂️
-👋 Bonjour ! Je suis étudiant en 3ème année à Paris, spécialisé en développement orienté données. Ma passion pour l'apprentissage me pousse à élargir constamment mon ensemble de compétences et à me tenir à jour avec les dernières technologies.
+👋 Bonjour ! Je suis un étudiant essayant de me spécialiser en développement orienté données à Paris.
 
 ## Compétences et centres d'intérêt 💭
-- **Cloud Computing** : J'ai une solide expérience avec AWS et j'aime utiliser ses services pour créer des solutions évolutives et efficaces.
+- **Cloud Computing** : Mes compétences vont de la simple gestion de buckets ou de data lakes, jusqu'a la gestion de transit gateways complexes et de network tooling.
 
-- **Bases de données** : Compétent en SQL et expérimenté avec les bases de données NoSQL, je suis habile à concevoir et gérer des structures de données qui supportent des applications robustes.
+- **Bases de données** : Je possede une maitrise solide des bases de données relationnelles (notamment PostgreSQL), tout en ayant des bases en NoSQL.
 
-- **Développement backend** : J'ai une expérience pratique avec les technologies backend, y compris les scripts shell avec Bash et Control-M, pour automatiser et rationaliser les flux de travail.
-
-- **Apprentissage continu** : J'adore acquérir de nouvelles connaissances et compétences, cherchant toujours des opportunités pour apprendre et grandir dans le domaine de la technologie.
+- **Développement backend** : Je possede des bases d'Unix & Control-M
 
 - **Sports** : Le football et le sport en général sont des hobbies, en particulier le PSG <img src="./assets/psg.png" alt="psg" width="1,5%"/>
+
+## Objectifs actuels 🎯
+> Je suis actuellement à la recherche d'une **alternance** en *solutions cloud ou développement backend*. Je souhaite contribuer des projets passionnants ou je pourrai apprendre des professionnels du secteur et développer mes connaissances.
+
+# En cours 🧱
+### Projets en solo 🧨
+- Actuellement sur https://github.com/MathieuAudibert/TGW-Reporting et https://github.com/MathieuAudibert/bank-fraud-detection
+
+### Projets de groupe 🔌
+- Actuellement sur https://github.com/UnityWeb-Dev et https://github.com/IsmaaDevs/ProSend
+
+>[!NOTE]\
+> À l'exception de https://github.com/MathieuAudibert/TGW-Reporting, https://github.com/MathieuAudibert/bank-fraud-detection et ProSend, beaucoup de mes dépôts sont <br />
+>![Obsolètes](https://img.shields.io/badge/State-Outdated-red?style=plastic) ![Brouillons](https://img.shields.io/badge/Stage-Draft-orange?style=plastic) 
 
 **Explorez cette section pour découvrir en détail mes compétences et voir comment je peux contribuer à vos projets**.
 
