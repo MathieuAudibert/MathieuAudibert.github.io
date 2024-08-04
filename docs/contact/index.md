@@ -11,3 +11,12 @@ Vous pouvez me contacter sur cette adresse mail, ou bien en message linkedin !
 [![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png)](mailto:mathieu.audibert27@gmail.com)
 
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/mathieu-audibert-2b4763252/)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mathieu-audibert-2b4763252/" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50">
+  </a>
+  <a href="mailto:mathieu.audibert27@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="50" height="50">
+  </a>
+</p>
