@@ -5,8 +5,9 @@ nav_order: 3
 has_children: false
 ---
 
+<div markdown="1">
+
 # Languages et Outils 🛠
-<div>
 
 ## Languages ✏️
 
@@ -49,3 +50,5 @@ has_children: false
 | R | Azure |
 |:--------|:----|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" title="R" alt="R" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" title="Azure" alt="Azure" width="55" height="55"/> |
+
+</div>
