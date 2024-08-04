@@ -38,8 +38,7 @@ Je suis actuellement à la recherche d'une **alternance** en *solutions cloud ou
 ## Projets de groupe 🔌
 - Actuellement sur https://github.com/UnityWeb-Dev et https://github.com/IsmaaDevs/ProSend
 
-> À l'exception de https://github.com/MathieuAudibert/TGW-Reporting, https://github.com/MathieuAudibert/bank-fraud-detection et ProSend, beaucoup de mes dépôts sont <br />
->![Obsolètes](https://img.shields.io/badge/State-Outdated-red?style=plastic) ![Brouillons](https://img.shields.io/badge/Stage-Draft-orange?style=plastic) 
+> À l'exception de https://github.com/MathieuAudibert/TGW-Reporting, https://github.com/MathieuAudibert/bank-fraud-detection et ProSend, beaucoup de mes dépôts sont <br /> ![Obsolètes](https://img.shields.io/badge/State-Outdated-red?style=plastic) ![Brouillons](https://img.shields.io/badge/Stage-Draft-orange?style=plastic) 
 
 **Explorez cette section pour découvrir en détail mes compétences et voir comment je peux contribuer à vos projets**.
 
