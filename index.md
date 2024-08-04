@@ -26,7 +26,7 @@ Vous pourrez en découvrir plus sur mes **projets**, mes **compétences** et mon
 
 - **Développement backend** : Je possede des bases d'Unix & Control-M
 
-- **Sports** : Le football et le sport en général sont des hobbies, en particulier le PSG <img src="./assets/psg.png" alt="psg" width="1,5%"/>
+- **Sports** : Le football et le sport en général sont des hobbies, en particulier le PSG
 
 ## Objectifs actuels 🎯
 > Je suis actuellement à la recherche d'une **alternance** en *solutions cloud ou développement backend*. Je souhaite contribuer des projets passionnants ou je pourrai apprendre des professionnels du secteur et développer mes connaissances.
