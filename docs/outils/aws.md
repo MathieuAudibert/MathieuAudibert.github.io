@@ -1,9 +1,8 @@
 ---
-title: Langages
+title: Aws
 layout: default
-has_children: true
-nav_order: 4
-permalink: /docs/outils
+nav_order: 2
+parent: Outils
 ---
 
 # AWS 🍊
