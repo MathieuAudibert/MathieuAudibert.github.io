@@ -1,7 +1,6 @@
 ---
 title: Autres
 layout: default
-has_children: false
 parent: Outils
 nav_order: 3
 ---
