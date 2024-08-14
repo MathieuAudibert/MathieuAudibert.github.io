@@ -1,9 +1,9 @@
 ---
-title: Langages
+title: Autres
 layout: default
-has_children: true
-nav_order: 5
-permalink: /docs/outils
+has_children: false
+parent: Outils
+nav_order: 3
 ---
 
 # Autres 💡
