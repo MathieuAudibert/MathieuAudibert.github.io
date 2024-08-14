@@ -3,6 +3,7 @@ layout: default
 title: Outils
 nav_order: 3
 has_children: true
+permalink: /docs/outils
 ---
 
 <div markdown="1">
