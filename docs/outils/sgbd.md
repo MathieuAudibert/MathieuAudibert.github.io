@@ -1,9 +1,8 @@
 ---
-title: Langages
+title: Sgbd
 layout: default
-has_children: true
 nav_order: 3
-permalink: /docs/outils
+parent: Outils
 ---
 
 # SGBD 💾
