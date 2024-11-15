@@ -33,11 +33,11 @@ Je suis actuellement ***concepteur développeur en alternance a la CPAM du Val-d
 
 # En cours 🧱
 ## Projets en solo 🧨
-- Network & back-end : https://github.com/MathieuAudibert/TGW-Reporting, https://github.com/MathieuAudibert/bank-fraud-detection, https://github.com/MathieuAudibert/python-ip-list
-- Front & Cloud : https://github.com/MathieuAudibert/PHP-Renforcement, https://github.com/RomeoAg13/Flammeo
+- Network & back-end : [https://github.com/MathieuAudibert/TGW-Reporting](https://github.com/MathieuAudibert/TGW-Reporting), [https://github.com/MathieuAudibert/bank-fraud-detection](https://github.com/MathieuAudibert/bank-fraud-detection), [https://github.com/MathieuAudibert/python-ip-list](https://github.com/MathieuAudibert/python-ip-list)
+- Front & Cloud : [https://github.com/MathieuAudibert/PHP-Renforcement](https://github.com/MathieuAudibert/PHP-Renforcement), [https://github.com/RomeoAg13/Flammeo](https://github.com/RomeoAg13/Flammeo)
 
 ## Projets de groupe 🔌
-- https://github.com/UnityWeb-Dev, https://github.com/IsmaaDevs/ProSend, https://github.com/RomeoAg13/Flammeo
+- [https://github.com/UnityWeb-Dev](https://github.com/UnityWeb-Dev), [https://github.com/IsmaaDevs/ProSend](https://github.com/IsmaaDevs/ProSend), [https://github.com/RomeoAg13/Flammeo](https://github.com/RomeoAg13/Flammeo)
 
 > Certains dépôts sont **outdated**
 
