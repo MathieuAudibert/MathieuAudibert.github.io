@@ -15,8 +15,6 @@ parent: Projets
 * Avoir sa propre playlist 💽
 
 <iframe
-  width="300"
-  height="200"
   src="https://github.com/MathieuAudibert/PHP-Renforcement">
 </iframe>
 
