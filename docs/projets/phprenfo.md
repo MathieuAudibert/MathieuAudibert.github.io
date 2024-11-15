@@ -14,9 +14,7 @@ parent: Projets
 * Liker un titre ❤️
 * Avoir sa propre playlist 💽
 
-<iframe
-  src="https://github.com/MathieuAudibert/PHP-Renforcement">
-</iframe>
+<iframe height="70%" width="50%" src="https://github.com/MathieuAudibert/PHP-Renforcement"></iframe>
 
 ## Lien 
 
