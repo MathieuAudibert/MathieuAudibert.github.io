@@ -7,7 +7,7 @@ permalink: /
 
 # Mon porfolio
 
-Ce portfolio de projets a été developpé utilisant les [https://pages.github.com/](Github Pages). 
+Ce portfolio de projets a été developpé utilisant les [Github Pages](https://pages.github.com/). 
 Vous pourrez en découvrir plus sur mes **projets**, mes **compétences** et mon **parcours professionnel** !
 
 [Linkedin](https://www.linkedin.com/in/mathieu-audibert-2b4763252/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
