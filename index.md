@@ -5,9 +5,6 @@ nav_order: 1
 permalink: /
 ---
 
-<head><link rel="shortcut icon" type="image/x-icon" href="favicon.ico"><head>
-
-
 # Mon porfolio
 
 Ce portfolio de projets a été developpé utilisant les [https://pages.github.com/](Github Pages). 
@@ -25,7 +22,7 @@ Vous pourrez en découvrir plus sur mes **projets**, mes **compétences** et mon
 # Compétences et centres d'intérêt 💭
 - **Cloud Computing** : Mes compétences vont de la simple gestion de buckets, data lakes, bddr jusqu'au network tooling & la gestion de transit gateways complexes
 
-- **Bases de données** : Je detiens des compétences en bases de données relationnelles (Merise, mysql, postgresql), tout en ayant des bases en NoSQL
+- **Bases de données** : Je detiens des compétences en bases de données relationnelles (Merise, mysql, postgresql, DAG), tout en ayant des bases en NoSQL
 
 - **Développement backend** : Bases d'Unix & notions en Control-M
 
