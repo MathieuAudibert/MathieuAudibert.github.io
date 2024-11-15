@@ -7,9 +7,9 @@ parent: Projets
 ---
 
 # Detection de fraudes python
-- 🔍 Traques de fraudes dans le milieu bancaire francais
-- 🛠️ Python, Jupyter Notebook & SQL
-- 💻 Realisation de statistiques en fonction du nombres de fraudes
+* 🔍 Traques de fraudes dans le milieu bancaire francais
+* 🛠️ Python, Jupyter Notebook & SQL
+* 💻 Realisation de statistiques en fonction du nombres de fraudes
 
 ## Lien
 

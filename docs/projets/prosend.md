@@ -8,10 +8,10 @@ parent: Projets
 
 # ProSend
 
-- 🌐 Application web dynamique.
-- 📝 Possibilité d'ajouter des projets zipés accessible par les étudiants & professeurs.
-- 🛠️ Bucket AWS & bddr PostgreSQL
-- 📚 Documentation complete, MERISE etc...
+* 🌐 Application web dynamique.
+* 📝 Possibilité d'ajouter des projets zipés accessible par les étudiants & professeurs.
+* 🛠️ Bucket AWS & bddr PostgreSQL
+* 📚 Documentation complete, MERISE etc...
 
 ## Lien 
 
