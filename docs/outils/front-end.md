@@ -9,21 +9,21 @@ nav_order: 2
 
 Voici les langages que j'utilise/ai utilisé pour du développement [front](https://fr.wikipedia.org/wiki/D%C3%A9veloppement_web_frontal).
 
-<div style="display:flex;align-items:center;margin-bottom:10px;">
+<div style="display:flex;align-items:center;margin-bottom:15px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" width="30" height="30" style="margin-right:10px;">
-  <span style="flex:1;">Windows</span>
+  <span style="margin-right:10px;">Windows</span>
   <progress value="100" max="100"></progress>
 </div>
 
-<div style="display:flex;align-items:center;margin-bottom:10px;">
+<div style="display:flex;align-items:center;margin-bottom:15px;">
   <img src="https://i.ibb.co/zPn2Qt3/image.png" width="30" height="30" style="margin-right:10px;">
-  <span style="flex:1;">Ubuntu</span>
+  <span style="margin-right:10px;">Ubuntu</span>
   <progress value="50" max="100"></progress>
 </div>
 
-<div style="display:flex;align-items:center;margin-bottom:10px;">
+<div style="display:flex;align-items:center;margin-bottom:15px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/2044px-Vimlogo.svg.png" width="30" height="30" style="margin-right:10px;">
-  <span style="flex:1;">VIM</span>
+  <span style="margin-right:10px;">VIM</span>
   <progress value="20" max="100"></progress>
 </div>
 
