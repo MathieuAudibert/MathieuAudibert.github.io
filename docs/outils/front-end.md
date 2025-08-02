@@ -1,13 +1,13 @@
 ---
-title: Os
+title: Front-End
 layout: default
 parent: Outils
-nav_order: 1
+nav_order: 2
 ---
 
-## OS
+## Front-End
 
-Voici les [systèmes d'opérations](https://en.wikipedia.org/wiki/Operating_system) que j'utilise/ai utilisé ainsi que mon aisance avec.
+Voici les langages que j'utilise/ai utilisé pour du développement [front](https://fr.wikipedia.org/wiki/D%C3%A9veloppement_web_frontal).
 
 <div style="display:flex;align-items:center;margin-bottom:10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" width="30" height="30" style="margin-right:10px;">
