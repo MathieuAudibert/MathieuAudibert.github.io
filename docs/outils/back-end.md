@@ -45,14 +45,14 @@ Voici les langages que j'utilise/ai utilisé pour du développement [back](https
   <progress value="90" max="100"></progress>
 </div>
 
-- **Python** : est le langage que j'utilise le plus souvent et auxquel je pense etre le plus a l'aise. Voici quelques projets ou j'ai utilisé Python : [Cooloc](lien), [BlockChain](lien), [TGW-Reporting](lien)
+- **Python** : utilisation tres fréquente, maitrise complète des concepts, appliqués sur ces projets : [Cooloc](lien), [BlockChain](lien), [TGW-Reporting](lien)
 
-- **R** : je ne maitrise que les bases 
+- **R** : maitrise des bases
 
-- **JavaScript** : est un langage que j'ai utilisé assez souvent durant mes études notamment sur le projet [DevOps](lien)
+- **JavaScript** : utilisation fréquente, maitrise correcte de NodeJs, appliqué sur ce projet : [DevOps](lien)
 
-- **Bash** : fait partie des langages que je souhaites améliorer car je ne l'ai pas assez exploité durant mes experiences professionnelles.
+- **Bash** : utilisation peu fréquente, je souhaite améliorer mes connaissances
 
-- **Java** : fait partie des langages que j'ai le plus utilisé durant mes études.
+- **Java** : utilisation fréquente, maitrise correcte 
 
-- **PHP/Symfony** : fait partie des langages que j'utilise le plus (notamment durant ma premiere année d'alternance) ou j'ai pu développer [AAVA](lien) & [Audiora](lien)
+- **PHP/Symfony** : utilisation tres fréquente, maitrise complète des concepts, appliqués sur ces projets : [AAVA](lien) & [Audiora](lien)

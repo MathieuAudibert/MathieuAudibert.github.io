@@ -27,8 +27,8 @@ Voici les langages que j'utilise/ai utilisé pour du développement [front](http
   <progress value="20" max="100"></progress>
 </div>
 
-- **ReactJs** : je ne maitrise que les bases de ReactJS que j'ai appliqué sur ce projet : [Cooloc](lien)
+- **ReactJs** : utilisation peu fréquente, maitrise des bases, appliquées sur ce projet : [Cooloc](lien)
 
-- **NextJS** : je ne maitrise que les bases de Next.js que j'ai appliqué sur ce projet : [Bankwerk](lien)
+- **NextJS** : utilisation peu fréquente, maitrise des bases, appliquées sur ce projet : [Bankwerk](lien)
 
-- **HTML/CSS** : je ne connais que les bases
+- **HTML/CSS** : maitrise des bases

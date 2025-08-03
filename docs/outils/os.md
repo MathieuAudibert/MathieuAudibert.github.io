@@ -27,8 +27,8 @@ Voici les [systèmes d'opérations](https://en.wikipedia.org/wiki/Operating_syst
   <progress value="20" max="100"></progress>
 </div>
 
-- **Windows** : est le système d'exploitation j'utilise quotidiennement. Je maitrise un peu Powershell ainsi que le terminal Windows
+- **Windows** : utilisation quotidienne, maitrise des bases de Powershell & Windows Terminal
 
-- **Ubuntu** : je ne l'utilise que lorsque je travaille sur mes machines virtuelles bien que je sois habitués aux commandes UNIX
+- **Ubuntu** : utilisation uniquement sur mes VMs, maitrise correcte d'Unix
 
-- **VIM** : je ne connais que les commandes de base
+- **VIM** : maitrise des bases
