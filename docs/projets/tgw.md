@@ -1,7 +1,7 @@
 ---
 layout: default
-title: BlockChain
-nav_order: 2
+title: TGW-Reporting
+nav_order: 3
 has_children: false
 parent: Projets
 ---
@@ -10,19 +10,18 @@ parent: Projets
 
 ## BlockChain
 
-Understanding basic cryptographics through this Python project.
+Little Open-Source python script to report transit-gateways of aws account(s).
 
-I learned how to :
-
-- Create my own token (Tekra)
-- Create blocks of this token (or transactions with any other tokens/currency)
-- Create block-chains for these blocks
-- Create result files and logs dated
-- Setup properly Sonarqube, Python & Pytest/Tox
+- List and storage in a python script all of the TGW in a AWS acc.
+- Creates output files in .json and .r format
+- Strong unit testing for the account
+- Assume role tuto (Security ++)
+- Github actions to have a better run sort of report
 
 ![VsCode with the project running](blockchain.png)
 
+![Homepage](cooloc.png)
+
 ## Lien(s)
 
-- [Github](https://github.com/MathieuAudibert/BlockChain)
-- [Image Docker](https://hub.docker.com/repository/docker/cap92/blockchainspython)
+- [Github](https://github.com/MathieuAudibert/TGW-Reporting)
