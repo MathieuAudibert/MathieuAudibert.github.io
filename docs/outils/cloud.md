@@ -35,6 +35,8 @@ Voici les langages que j'utilise/ai utilisé pour le [cloud](https://fr.wikipedi
 
 - **Terraform** : maitrise des bases
 
-- **Github Actions** : utilisation tres frequente, maitrise complète des concepts, appliqués dans ces projets : [Cooloc](lien), [BlockChain](lien), [TGW-Reporting](lien)
+- **Azure** : utilisation peu frequente, maitrise des bases, appliqués dans ce projet : [DevOps](lien)
 
-- **Gitlab Pipelines** : utilisation tres frequente, maitrise complète des concepts, appliqués dans ces projets : [AAVA](lien), [DevOps](lien)
+- **AWS** : utilisation frequente, maitrise correcte, appliqués dans ces projets : [TGW-Reporting](lien)
+
+- **Firebase** : utilisation tres frequente, maitrise complète des concepts, appliqués dans ces projets : [Cooloc](lien), [BankWerk](lien), [Audiora](lien)
