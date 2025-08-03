@@ -7,7 +7,7 @@ nav_order: 2
 
 ## Front-End
 
-Voici les langages que j'utilise/ai utilisé pour du développement [front](https://fr.wikipedia.org/wiki/D%C3%A9veloppement_web_frontal).
+Voici les langages que j'utilise/ai utilisé pour du développement [front](https://fr.wikipedia.org/wiki/D%C3%A9veloppement_web_frontal)
 
 <div style="display:flex;align-items:center;margin-bottom:10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="40" height="40" style="margin-right:10px;">

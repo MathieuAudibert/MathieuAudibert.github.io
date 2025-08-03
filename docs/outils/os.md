@@ -7,7 +7,7 @@ nav_order: 1
 
 ## OS
 
-Voici les [systèmes d'opérations](https://en.wikipedia.org/wiki/Operating_system) que j'utilise/ai utilisé ainsi que mon aisance avec.
+Voici les [systèmes d'opérations](https://en.wikipedia.org/wiki/Operating_system) que j'utilise/ai utilisé ainsi que mon aisance avec
 
 <div style="display:flex;align-items:center;margin-bottom:10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" width="40" height="40" style="margin-right:10px;">

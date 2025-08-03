@@ -7,7 +7,7 @@ nav_order: 3
 
 ## Back-End
 
-Voici les langages que j'utilise/ai utilisé pour du développement [back](https://fr.wikipedia.org/wiki/Backend).
+Voici les langages que j'utilise/ai utilisé pour du développement [back](https://fr.wikipedia.org/wiki/Backend)
 
 <div style="display:flex;align-items:center;margin-bottom:10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="40" height="40" style="margin-right:10px;">
@@ -53,6 +53,6 @@ Voici les langages que j'utilise/ai utilisé pour du développement [back](https
 
 - **Bash** : utilisation peu fréquente, je souhaite améliorer mes connaissances
 
-- **Java** : utilisation fréquente, maitrise correcte 
+- **Java** : utilisation fréquente, maitrise correcte
 
-- **PHP/Symfony** : utilisation tres fréquente, maitrise complète des concepts, appliqués sur ces projets : [AAVA](lien) & [Audiora](lien)
+- **PHP/Symfony** : utilisation tres fréquente, maitrise complète des concepts, appliqués sur ces projets : [AAVA](lien), [Audiora](lien)
