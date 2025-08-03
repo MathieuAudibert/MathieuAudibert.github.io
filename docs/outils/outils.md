@@ -8,5 +8,9 @@ permalink: /docs/outils
 
 # Languages et Outils 🛠
 
-Cette section vous en apprendra plus sur les technologies que j'utilise. 
+Bienvenue dans la section outils.
+
+Vous trouverez ici un aperçu des technologies, environnements et logiciels que j’utilise régulièrement.
+
+Cette section reflète les compétences que j’ai développées au fil de mes expériences, qu’elles soient académiques, professionnelles ou personnelles, et indique mon niveau d’aisance avec chacun d’eux.
 
