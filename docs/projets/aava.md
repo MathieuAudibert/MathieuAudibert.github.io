@@ -16,4 +16,4 @@ Conception & développement d’un site en Symfony, ayant pour objectif d’aide
 
 ## Lien(s)
 
-- Code appartenant a la CPAM du Val-de-Marne 🫣
+- Code appartenant a la CPAM du Val-de-Marne 😵
