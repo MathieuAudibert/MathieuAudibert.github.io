@@ -27,8 +27,8 @@ Voici les [SGBD](https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_gestion_de_base_d
   <progress value="80" max="100"></progress>
 </div>
 
-- **MySQL** : utilisation tres frequente, maitrise complète des concepts, appliqué dans ce projet : [DevOps](lien)
+- **MySQL** : utilisation tres frequente, maitrise complète des concepts, appliqué dans ce projet : [DevOps](https://mathieuaudibert.github.io/docs/projets/devops.html)
 
-- **PostgreSQL** : utilisation tres frequente, maitrise complète des concepts, appliqués dans ces projets : [Cooloc](lien), [AAVA](lien)
+- **PostgreSQL** : utilisation tres frequente, maitrise complète des concepts, appliqués dans ces projets : [Cooloc](https://mathieuaudibert.github.io/docs/projets/cooloc.html), [AAVA](https://mathieuaudibert.github.io/docs/projets/aava.html)
 
 - **MongoDB** : utilisation frequente, maitrise correcte

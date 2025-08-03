@@ -45,14 +45,14 @@ Voici les langages que j'utilise/ai utilisé pour du développement [back](https
   <progress value="90" max="100"></progress>
 </div>
 
-- **Python** : utilisation tres fréquente, maitrise complète des concepts, appliqués sur ces projets : [Cooloc](lien), [BlockChain](lien), [TGW-Reporting](lien)
+- **Python** : utilisation tres fréquente, maitrise complète des concepts, appliqués sur ces projets : [Cooloc](https://mathieuaudibert.github.io/docs/projets/cooloc.html), [BlockChain](https://mathieuaudibert.github.io/docs/projets/blockchain.html), [TGW-Reporting](https://mathieuaudibert.github.io/docs/projets/tgw.html)
 
 - **R** : maitrise des bases
 
-- **JavaScript** : utilisation fréquente, maitrise correcte de NodeJs, appliqué sur ce projet : [DevOps](lien)
+- **JavaScript** : utilisation fréquente, maitrise correcte de NodeJs, appliqué sur ce projet : [DevOps](https://mathieuaudibert.github.io/docs/projets/devops.html)
 
 - **Bash** : utilisation peu fréquente, je souhaite améliorer mes connaissances
 
 - **Java** : utilisation fréquente, maitrise correcte
 
-- **PHP/Symfony** : utilisation tres fréquente, maitrise complète des concepts, appliqués sur ces projets : [AAVA](lien), [Audiora](lien)
+- **PHP/Symfony** : utilisation tres fréquente, maitrise complète des concepts, appliqués sur ces projets : [AAVA](https://mathieuaudibert.github.io/docs/projets/aava.html), [Audiora](https://mathieuaudibert.github.io/docs/projets/audiora.html)

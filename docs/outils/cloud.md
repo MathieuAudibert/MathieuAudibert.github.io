@@ -35,8 +35,8 @@ Voici les langages que j'utilise/ai utilisé pour le [cloud](https://fr.wikipedi
 
 - **Terraform** : maitrise des bases
 
-- **Azure** : utilisation peu frequente, maitrise des bases, appliqués dans ce projet : [DevOps](lien)
+- **Azure** : utilisation peu frequente, maitrise des bases, appliqués dans ce projet : [DevOps](https://mathieuaudibert.github.io/docs/projets/devops.html)
 
-- **AWS** : utilisation frequente, maitrise correcte, appliqués dans ces projets : [TGW-Reporting](lien)
+- **AWS** : utilisation frequente, maitrise correcte, appliqués dans ces projets : [TGW-Reporting](https://mathieuaudibert.github.io/docs/projets/tgw.html)
 
-- **Firebase** : utilisation tres frequente, maitrise complète des concepts, appliqués dans ces projets : [Cooloc](lien), [BankWerk](lien), [Audiora](lien)
+- **Firebase** : utilisation tres frequente, maitrise complète des concepts, appliqués dans ces projets : [Cooloc](https://mathieuaudibert.github.io/docs/projets/cooloc.html), [BankWerk](https://mathieuaudibert.github.io/docs/projets/bankwerk.html), [Audiora](https://mathieuaudibert.github.io/docs/projets/audiora.html)

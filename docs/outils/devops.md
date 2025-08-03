@@ -21,6 +21,6 @@ Voici les langages que j'utilise/ai utilisé pour du développement "[DevOps](ht
   <progress value="100" max="100"></progress>
 </div>
 
-- **Github Actions** : utilisation tres frequente, maitrise complète des concepts, appliqués dans ces projets : [Cooloc](lien), [BlockChain](lien), [TGW-Reporting](lien)
+- **Github Actions** : utilisation tres frequente, maitrise complète des concepts, appliqués dans ces projets : [Cooloc](https://mathieuaudibert.github.io/docs/projets/cooloc.html), [BlockChain](https://mathieuaudibert.github.io/docs/projets/blockchain.html), [TGW-Reporting](https://mathieuaudibert.github.io/docs/projets/tgw.html)
 
-- **Gitlab Pipelines** : utilisation tres frequente, maitrise complète des concepts, appliqués dans ces projets : [AAVA](lien), [DevOps](lien)
+- **Gitlab Pipelines** : utilisation tres frequente, maitrise complète des concepts, appliqués dans ces projets : [AAVA](https://mathieuaudibert.github.io/docs/projets/aava.html), [DevOps](https://mathieuaudibert.github.io/docs/projets/devops.html)
