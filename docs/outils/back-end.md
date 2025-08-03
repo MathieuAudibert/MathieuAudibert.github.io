@@ -10,13 +10,13 @@ nav_order: 3
 Voici les langages que j'utilise/ai utilisé pour du développement [back](https://fr.wikipedia.org/wiki/Backend)
 
 <div style="display:flex;align-items:center;margin-bottom:10px;">
-  <img src="https://www.svgrepo.com/show/452091/python.svg" width="40" height="40" style="margin-right:10px;">
+  <img src="https://www.svgrepo.com/show/452091/python.svg" width="55" height="55" style="margin-right:10px;">
   <span style="flex:1;">Python</span>
   <progress value="100" max="100"></progress>
 </div>
 
 <div style="display:flex;align-items:center;margin-bottom:10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" width="40" height="40" style="margin-right:10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" width="55" height="55" style="margin-right:10px;">
   <span style="flex:1;">R</span>
   <progress value="10" max="100"></progress>
 </div>
