@@ -10,7 +10,7 @@ nav_order: 3
 Voici les langages que j'utilise/ai utilisé pour du développement [back](https://fr.wikipedia.org/wiki/Backend)
 
 <div style="display:flex;align-items:center;margin-bottom:10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="40" height="40" style="margin-right:10px;">
+  <img src="https://www.svgrepo.com/show/452091/python.svg" width="40" height="40" style="margin-right:10px;">
   <span style="flex:1;">Python</span>
   <progress value="100" max="100"></progress>
 </div>
@@ -22,25 +22,25 @@ Voici les langages que j'utilise/ai utilisé pour du développement [back](https
 </div>
 
 <div style="display:flex;align-items:center;margin-bottom:10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40" style="margin-right:10px;">
+  <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="40" height="40" style="margin-right:10px;">
   <span style="flex:1;">JavaScript</span>
   <progress value="70" max="100"></progress>
 </div>
 
 <div style="display:flex;align-items:center;margin-bottom:10px;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFDJLaUHfkk5JOqF2RTfK4m3RgHi3kM7Txw&s" width="40" height="40" style="margin-right:10px;">
+  <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" width="40" height="40" style="margin-right:10px;">
   <span style="flex:1;">Bash</span>
   <progress value="50" max="100"></progress>
 </div>
 
 <div style="display:flex;align-items:center;margin-bottom:10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" width="40" height="40" style="margin-right:10px;">
+  <img src="https://www.svgrepo.com/show/452234/java.svg" width="40" height="40" style="margin-right:10px;">
   <span style="flex:1;">Java</span>
   <progress value="80" max="100"></progress>
 </div>
 
 <div style="display:flex;align-items:center;margin-bottom:10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="40" height="40" style="margin-right:10px;">
+  <img src="https://www.svgrepo.com/show/349474/php.svg" width="40" height="40" style="margin-right:10px;">
   <span style="flex:1;">PHP/Symfony</span>
   <progress value="90" max="100"></progress>
 </div>
