@@ -10,19 +10,19 @@ nav_order: 1
 Voici les [systèmes d'opérations](https://en.wikipedia.org/wiki/Operating_system) que j'utilise/ai utilisé ainsi que mon aisance avec
 
 <div style="display:flex;align-items:center;margin-bottom:10px;">
-  <img src="https://www.svgrepo.com/show/382713/windows-applications.svg" width="40" height="40" style="margin-right:10px;">
+  <img src="https://www.svgrepo.com/show/382713/windows-applications.svg" width="55" height="55" style="margin-right:10px;">
   <span style="flex:1;">Windows</span>
   <progress value="100" max="100"></progress>
 </div>
 
 <div style="display:flex;align-items:center;margin-bottom:10px;">
-  <img src="https://www.svgrepo.com/show/452122/ubuntu.svg" width="40" height="40" style="margin-right:10px;">
+  <img src="https://www.svgrepo.com/show/452122/ubuntu.svg" width="55" height="55" style="margin-right:10px;">
   <span style="flex:1;">Ubuntu</span>
   <progress value="50" max="100"></progress>
 </div>
 
 <div style="display:flex;align-items:center;margin-bottom:10px;">
-  <img src="https://www.svgrepo.com/show/354516/vim.svg" width="40" height="40" style="margin-right:10px;">
+  <img src="https://www.svgrepo.com/show/354516/vim.svg" width="55" height="55" style="margin-right:10px;">
   <span style="flex:1;">VIM</span>
   <progress value="20" max="100"></progress>
 </div>

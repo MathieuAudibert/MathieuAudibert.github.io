@@ -22,25 +22,25 @@ Voici les langages que j'utilise/ai utilisé pour du développement [back](https
 </div>
 
 <div style="display:flex;align-items:center;margin-bottom:10px;">
-  <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="40" height="40" style="margin-right:10px;">
+  <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="55" height="55" style="margin-right:10px;">
   <span style="flex:1;">JavaScript</span>
   <progress value="70" max="100"></progress>
 </div>
 
 <div style="display:flex;align-items:center;margin-bottom:10px;">
-  <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" width="40" height="40" style="margin-right:10px;">
+  <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" width="55" height="55" style="margin-right:10px;">
   <span style="flex:1;">Bash</span>
   <progress value="50" max="100"></progress>
 </div>
 
 <div style="display:flex;align-items:center;margin-bottom:10px;">
-  <img src="https://www.svgrepo.com/show/452234/java.svg" width="40" height="40" style="margin-right:10px;">
+  <img src="https://www.svgrepo.com/show/452234/java.svg" width="55" height="55" style="margin-right:10px;">
   <span style="flex:1;">Java</span>
   <progress value="80" max="100"></progress>
 </div>
 
 <div style="display:flex;align-items:center;margin-bottom:10px;">
-  <img src="https://www.svgrepo.com/show/349474/php.svg" width="40" height="40" style="margin-right:10px;">
+  <img src="https://www.svgrepo.com/show/349474/php.svg" width="55" height="55" style="margin-right:10px;">
   <span style="flex:1;">PHP/Symfony</span>
   <progress value="90" max="100"></progress>
 </div>
