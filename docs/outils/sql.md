@@ -7,7 +7,7 @@ nav_order: 6
 
 ## Cloud
 
-Voici les [SGBD](https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_gestion_de_base_de_donn%C3%A9es) que j'utilise/ai utilisé avec du [SQL](https://fr.wikipedia.org/wiki/Structured_Query_Language)
+Voici les [SGBD](https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_gestion_de_base_de_donn%C3%A9es) que j'utilise/ai utilisé avec du [SQL](https://fr.wikipedia.org/wiki/Structured_Query_Language) ou du [NoSQL](https://fr.wikipedia.org/wiki/NoSQL)
 
 <div style="display:flex;align-items:center;margin-bottom:10px;">
   <img src="https://www.svgrepo.com/show/439233/mysql.svg" width="55" height="55" style="margin-right:10px;">
