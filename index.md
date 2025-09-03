@@ -8,7 +8,7 @@ permalink: /
 # Mon porfolio
 
 Bienvenue sur mon portfolio !
-Ici vous pourrez retrouver les **outils** que j'utilise ainsi que les **projets** auxquels j'ai participé.
+Ici vous pourrez retrouver les **outils** que j'utilise ainsi que certains des **projets** auxquels j'ai participé.
 
 Le portfolio est hébergé sur une [page Github](https://pages.github.com/) utilisant la template [just-the-docs](https://just-the-docs.github.io/just-the-docs/).
 
